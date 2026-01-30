@@ -1,5 +1,4 @@
 # simple-html-js-project
-wala pa
 
 Group Members: 
 
