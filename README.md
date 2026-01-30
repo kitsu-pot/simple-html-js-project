@@ -5,5 +5,5 @@ Group Members:
 
 Sheila Romasanta
 Jhon Gabriel Hilario
-justin Ybanez
+Justin Ybanez
 Keith Allysson Quinto
